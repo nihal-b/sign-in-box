@@ -1,0 +1,51 @@
+*
+{
+    background-color: thistle;
+    
+
+   
+}
+.int{
+    width: 200px;
+    height: 30px;
+    background-color:rgba(0, 0, 0, 0.082);
+    border:none
+    
+    
+}
+.btn {
+    
+    background-color: #72ad98;
+    color: rgb(247, 240, 240);
+    padding: 14px 20px;
+    margin: 20px 0;
+    border-radius:10px ;
+    border: none;
+    cursor: pointer;
+    width: 200px;
+    height:40px;
+  }
+ .btn:hover{
+     transition: 1sec;
+     background-color: teal;
+    }
+
+    div{
+        width:270px;
+        height:350px;
+        border:0px solid rgba(180, 195, 218, 0.808);
+        padding:30px;
+        margin:90px;
+        border-radius:20px;
+        background-color:white;
+    }
+    .int{
+        margin:10px ;
+    }
+    #hd{
+        font-family:cursive;
+        background-color: white;
+    }
+    .fp{
+        background-color: white;
+    }
